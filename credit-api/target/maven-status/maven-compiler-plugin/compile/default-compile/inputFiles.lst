@@ -1,0 +1,10 @@
+/home/kristinv/python/CreditAPI/credit-api/src/main/java/com/example/creditapi/model/Addresses.java
+/home/kristinv/python/CreditAPI/credit-api/src/main/java/com/example/creditapi/model/ContactInfo.java
+/home/kristinv/python/CreditAPI/credit-api/src/main/java/com/example/creditapi/model/Gender.java
+/home/kristinv/python/CreditAPI/credit-api/src/main/java/com/example/creditapi/CreditApiApplication.java
+/home/kristinv/python/CreditAPI/credit-api/src/main/java/com/example/creditapi/model/EmploymentStatus.java
+/home/kristinv/python/CreditAPI/credit-api/src/main/java/com/example/creditapi/controller/ClientDataController.java
+/home/kristinv/python/CreditAPI/credit-api/src/main/java/com/example/creditapi/model/PassportData.java
+/home/kristinv/python/CreditAPI/credit-api/src/main/java/com/example/creditapi/model/PersonalDataResponse.java
+/home/kristinv/python/CreditAPI/credit-api/src/main/java/com/example/creditapi/model/MaritalStatus.java
+/home/kristinv/python/CreditAPI/credit-api/src/main/java/com/example/creditapi/exception/GlobalExceptionHandler.java

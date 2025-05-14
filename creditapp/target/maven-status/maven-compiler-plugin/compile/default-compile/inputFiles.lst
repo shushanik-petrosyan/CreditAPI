@@ -1,0 +1,11 @@
+/home/kristinv/python/creditapp/src/main/java/com/example/creditapp/model/Addresses.java
+/home/kristinv/python/creditapp/src/main/java/com/example/creditapp/model/ContactInfo.java
+/home/kristinv/python/creditapp/src/main/java/com/example/creditapp/model/PassportData.java
+/home/kristinv/python/creditapp/src/main/java/com/example/creditapp/model/ApplicationResponse.java
+/home/kristinv/python/creditapp/src/main/java/com/example/creditapp/controller/ApplicationController.java
+/home/kristinv/python/creditapp/src/main/java/com/example/creditapp/model/MaritalStatus.java
+/home/kristinv/python/creditapp/src/main/java/com/example/creditapp/model/Gender.java
+/home/kristinv/python/creditapp/src/main/java/com/example/creditapp/model/ApplicationDetails.java
+/home/kristinv/python/creditapp/src/main/java/com/example/creditapp/model/ApplicationRequest.java
+/home/kristinv/python/creditapp/src/main/java/com/example/creditapp/CreditAppApplication.java
+/home/kristinv/python/creditapp/src/main/java/com/example/creditapp/model/EmploymentStatus.java
